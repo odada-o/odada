@@ -1,3 +1,6 @@
 # Ignore all files in the history directory
 .history/*
 .DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
